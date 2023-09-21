@@ -8,8 +8,8 @@ Ce projet fournit une configuration Docker simple pour démarrer rapidement avec
 # Installation
 
 # Clonez ce dépôt :
-git clone https://github.com/wllmz/wordpress-docker.git
-cd wordpress-docker
+- git clone https://github.com/wllmz/wordpress-docker.git
+- cd wordpress-docker
 
 # Configuration avec .env
 Avant de démarrer les conteneurs, vous pouvez personnaliser certains paramètres en modifiant le fichier .env. Ce fichier contient des variables d'environnement utilisées par Docker Compose.
